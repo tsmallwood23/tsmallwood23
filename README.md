@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Tanner Smallwood
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning how to transition from a traditional System Admin to a DevOps Engineer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: smallwood.tanner23@gmail.com
+- 👋 Hi, I’m Tanner Smallwood.
+- 👀 I’m interested in basketball, whiskey, hiking/backpacking, FIRE, snowboarding, and obviously technology!
+- 🌱 I’m currently working on transitioning from being a traditional System Administrator to a DevOps Engineer. It's turned out to be quite the journey!
+- 📫 How to reach me: smallwood.tanner23@gmail.com or linkedin.com/in/tanner-smallwood
 
 <!---
 tsmallwood23/tsmallwood23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
