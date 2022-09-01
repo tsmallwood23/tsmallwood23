@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanner Smallwood.
 - 👀 I’m interested in basketball, whiskey, hiking/backpacking, FIRE, snowboarding, and obviously technology!
-- 🌱 I’m currently working on transitioning from being a traditional System Administrator to a DevOps Engineer. It's turned out to be quite the journey!
+- 🌱 I’m currently working on transitioning from being a traditional System Administrator to a DevOps Engineer. It's been quite the fun journey!
 - 📫 How to reach me: smallwood.tanner23@gmail.com or https://linkedin.com/in/tanner-smallwood
 
 <!---
